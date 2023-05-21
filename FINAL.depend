@@ -1,0 +1,848 @@
+# depslib dependency file v1.0
+1589199904 source:f:\jlperalta_cgi\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
+1368298160 f:\jlperalta_cgi\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368298160 f:\jlperalta_cgi\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1570479330 source:e:\jlperalta_cgi\main.cpp
+	<gl/glut.h>
+
+1368298160 e:\jlperalta_cgi\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368298160 e:\jlperalta_cgi\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1588609626 source:g:\jlperalta_cgi\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
+1368298160 g:\jlperalta_cgi\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368298160 g:\jlperalta_cgi\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1591023362 source:f:\jlperalta_cgi_mod\main.cpp
+	"stdafx.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+
+1206991862 f:\jlperalta_cgi_mod\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1368298160 f:\jlperalta_cgi_mod\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368298160 f:\jlperalta_cgi_mod\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1354385916 f:\jlperalta_cgi_mod\glm.h
+	<GL/glut.h>
+
+1353162732 f:\jlperalta_cgi_mod\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1354385856 source:f:\jlperalta_cgi_mod\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206991862 source:f:\jlperalta_cgi_mod\stdafx.cpp
+	"stdafx.h"
+
+1208837404 source:f:\jlperalta_cgi_mod\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1591606924 source:f:\jlperalta_cgi_mod_glui\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206991862 f:\jlperalta_cgi_mod_glui\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354385916 f:\jlperalta_cgi_mod_glui\glm.h
+	<GL/glut.h>
+
+1368298160 f:\jlperalta_cgi_mod_glui\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368298160 f:\jlperalta_cgi_mod_glui\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1206991862 source:f:\jlperalta_cgi_mod_glui\stdafx.cpp
+	"stdafx.h"
+
+1208837404 source:f:\jlperalta_cgi_mod_glui\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1353162732 f:\jlperalta_cgi_mod_glui\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1634593792 source:f:\jlperalta_cgi_mod_glui\main.cpp
+	<string.h>
+	<GL/glui.h>
+	"stdafx.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+
+1152225778 f:\jlperalta_cgi_mod_glui\dependencias\include\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368298160 f:\jlperalta_cgi_mod_glui\dependencias\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368298160 f:\jlperalta_cgi_mod_glui\dependencias\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1152225778 f:\jlperalta_cgi_mod_glui\dependencias\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1591563724 source:d:\jorge\descargas\jlperalta_cgi_mod_glui\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206948662 d:\jorge\descargas\jlperalta_cgi_mod_glui\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354339116 d:\jorge\descargas\jlperalta_cgi_mod_glui\glm.h
+	<GL/glut.h>
+
+1368254960 d:\jorge\descargas\jlperalta_cgi_mod_glui\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368254960 d:\jorge\descargas\jlperalta_cgi_mod_glui\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1666188604 source:d:\jorge\descargas\jlperalta_cgi_mod_glui\main.cpp
+	"stdafx.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+
+1152182578 d:\jorge\descargas\jlperalta_cgi_mod_glui\dependencias\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368254960 d:\jorge\descargas\jlperalta_cgi_mod_glui\dependencias\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368254960 d:\jorge\descargas\jlperalta_cgi_mod_glui\dependencias\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1353115932 d:\jorge\descargas\jlperalta_cgi_mod_glui\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1206948662 source:d:\jorge\descargas\jlperalta_cgi_mod_glui\stdafx.cpp
+	"stdafx.h"
+
+1208794204 source:d:\jorge\descargas\jlperalta_cgi_mod_glui\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1591563724 source:c:\users\administrador\desktop\t3 compu\codigo\t3\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206948662 c:\users\administrador\desktop\t3 compu\codigo\t3\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354339116 c:\users\administrador\desktop\t3 compu\codigo\t3\glm.h
+	<GL/glut.h>
+
+1368254960 c:\users\administrador\desktop\t3 compu\codigo\t3\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368254960 c:\users\administrador\desktop\t3 compu\codigo\t3\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1666580320 source:c:\users\administrador\desktop\t3 compu\codigo\t3\main.cpp
+	"stdafx.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+	<math.h>
+
+1353115932 c:\users\administrador\desktop\t3 compu\codigo\t3\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1206948662 source:c:\users\administrador\desktop\t3 compu\codigo\t3\stdafx.cpp
+	"stdafx.h"
+
+1208794204 source:c:\users\administrador\desktop\t3 compu\codigo\t3\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1591567324 source:c:\users\administrador\desktop\t3 compu\codigo\code\t3\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206952262 c:\users\administrador\desktop\t3 compu\codigo\code\t3\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354342716 c:\users\administrador\desktop\t3 compu\codigo\code\t3\glm.h
+	<GL/glut.h>
+
+1368258560 c:\users\administrador\desktop\t3 compu\codigo\code\t3\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368258560 c:\users\administrador\desktop\t3 compu\codigo\code\t3\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1206952262 source:c:\users\administrador\desktop\t3 compu\codigo\code\t3\stdafx.cpp
+	"stdafx.h"
+
+1208797804 source:c:\users\administrador\desktop\t3 compu\codigo\code\t3\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1353119532 c:\users\administrador\desktop\t3 compu\codigo\code\t3\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1668337479 source:c:\users\administrador\desktop\t3 compu\codigo\code\t3\main.cpp
+	"stdafx.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+	<cmath>
+	"Camera.h"
+	<time.h>
+
+1667766012 source:c:\users\administrador\desktop\t3 compu\codigo\code\t3\camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+	<iostream>
+
+1625840000 c:\users\administrador\desktop\t3 compu\codigo\code\t3\camera.h
+
+1667766012 source:c:\users\administrador\desktop\t3 compu\codigo\code\final\camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+	<iostream>
+
+1368258560 c:\users\administrador\desktop\t3 compu\codigo\code\final\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368258560 c:\users\administrador\desktop\t3 compu\codigo\code\final\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1625840000 c:\users\administrador\desktop\t3 compu\codigo\code\final\camera.h
+
+1591567324 source:c:\users\administrador\desktop\t3 compu\codigo\code\final\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206952262 c:\users\administrador\desktop\t3 compu\codigo\code\final\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354342716 c:\users\administrador\desktop\t3 compu\codigo\code\final\glm.h
+	<GL/glut.h>
+
+1668434831 source:c:\users\administrador\desktop\t3 compu\codigo\code\final\main.cpp
+	"stdafx.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+	<cmath>
+	"Camera.h"
+	<time.h>
+
+1353119532 c:\users\administrador\desktop\t3 compu\codigo\code\final\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1206952262 source:c:\users\administrador\desktop\t3 compu\codigo\code\final\stdafx.cpp
+	"stdafx.h"
+
+1208797804 source:c:\users\administrador\desktop\t3 compu\codigo\code\final\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1667762412 source:c:\users\diego karlo amaro ca\downloads\final\camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+	<iostream>
+
+1368254960 c:\users\diego karlo amaro ca\downloads\final\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368254960 c:\users\diego karlo amaro ca\downloads\final\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1625836400 c:\users\diego karlo amaro ca\downloads\final\camera.h
+
+1591563724 source:c:\users\diego karlo amaro ca\downloads\final\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206948662 c:\users\diego karlo amaro ca\downloads\final\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354339116 c:\users\diego karlo amaro ca\downloads\final\glm.h
+	<GL/glut.h>
+
+1206948662 source:c:\users\diego karlo amaro ca\downloads\final\stdafx.cpp
+	"stdafx.h"
+
+1208794204 source:c:\users\diego karlo amaro ca\downloads\final\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1353115932 c:\users\diego karlo amaro ca\downloads\final\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1042606772 source:c:\users\diego karlo amaro ca\downloads\final\include-header-md2\bmp.cpp
+	<fstream>
+	"bmp.h"
+
+1042604146 c:\users\diego karlo amaro ca\downloads\final\include-header-md2\bmp.h
+	<windows.h>
+
+1042500968 source:c:\users\diego karlo amaro ca\downloads\final\include-header-md2\md2.cpp
+	<GL/glut.h>
+	<fstream>
+	"md2.h"
+	"texture.h"
+	"anorms.h"
+	"anormtab.h"
+
+1604027362 c:\users\diego karlo amaro ca\downloads\final\include-header-md2\md2.h
+
+1042501606 c:\users\diego karlo amaro ca\downloads\final\include-header-md2\texture.h
+	<list>
+	<string>
+
+1042501844 c:\users\diego karlo amaro ca\downloads\final\include-header-md2\anorms.h
+
+1042501846 c:\users\diego karlo amaro ca\downloads\final\include-header-md2\anormtab.h
+
+1042605912 source:c:\users\diego karlo amaro ca\downloads\final\include-header-md2\pcx.cpp
+	<fstream>
+	"pcx.h"
+
+1042604146 c:\users\diego karlo amaro ca\downloads\final\include-header-md2\pcx.h
+
+1042501568 source:c:\users\diego karlo amaro ca\downloads\final\include-header-md2\texture.cpp
+	<GL/glut.h>
+	"texture.h"
+	"bmp.h"
+	"tga.h"
+	"pcx.h"
+
+1042604150 c:\users\diego karlo amaro ca\downloads\final\include-header-md2\tga.h
+	<windows.h>
+
+1042606772 source:c:\users\diego karlo amaro ca\downloads\final\include-header-md2\tga.cpp
+	<fstream>
+	"tga.h"
+
+1668455916 source:c:\users\diego karlo amaro ca\downloads\final\main.cpp
+	"Libs.h"
+
+1668436552 c:\users\diego karlo amaro ca\downloads\final\libs.h
+	<windows.h>
+	<mmsystem.h>
+	"stdafx.h"
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+	<cmath>
+	"Camera.h"
+	<time.h>
+	<math.h>
+	<string.h>
+	<GL/glui.h>
+	"include-header-MD2/texture.h"
+	"include-header-MD2/timer.h"
+	"include-header-MD2/md2.h"
+
+1152182578 c:\users\diego karlo amaro ca\downloads\final\dependencias\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368254960 c:\users\diego karlo amaro ca\downloads\final\dependencias\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368254960 c:\users\diego karlo amaro ca\downloads\final\dependencias\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1041528122 c:\users\diego karlo amaro ca\downloads\final\include-header-md2\timer.h
+
+1668919524 source:d:\jorge\descargas\final\camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+	<iostream>
+
+1368258560 d:\jorge\descargas\final\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368258560 d:\jorge\descargas\final\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1668917723 d:\jorge\descargas\final\camera.h
+
+1591567324 source:d:\jorge\descargas\final\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206952262 d:\jorge\descargas\final\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354342716 d:\jorge\descargas\final\glm.h
+	<GL/glut.h>
+
+1206952262 source:d:\jorge\descargas\final\stdafx.cpp
+	"stdafx.h"
+
+1208797804 source:d:\jorge\descargas\final\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1353119532 d:\jorge\descargas\final\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1684654317 source:d:\jorge\descargas\final\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	"stdafx.h"
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	"CargadorObj.h"
+	"CargadorTextura.h"
+	<cmath>
+	"Camera.h"
+	<time.h>
+	<math.h>
+	<string.h>
+
+1668440152 d:\jorge\descargas\final\libs.h
+	<windows.h>
+	<mmsystem.h>
+	"stdafx.h"
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+	<cmath>
+	"Camera.h"
+	<time.h>
+	<math.h>
+	<string.h>
+	<GL/glui.h>
+	"include-header-MD2/texture.h"
+	"include-header-MD2/timer.h"
+	"include-header-MD2/md2.h"
+
+1152186178 d:\jorge\descargas\final\dependencias\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368258560 d:\jorge\descargas\final\dependencias\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368258560 d:\jorge\descargas\final\dependencias\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1042505206 d:\jorge\descargas\final\include-header-md2\texture.h
+	<list>
+	<string>
+
+1041531722 d:\jorge\descargas\final\include-header-md2\timer.h
+
+1604030962 d:\jorge\descargas\final\include-header-md2\md2.h
+
+1668919524 source:d:\jorge\descargas\test\final\camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+	<iostream>
+
+1368258560 d:\jorge\descargas\test\final\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368258560 d:\jorge\descargas\test\final\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1668917723 d:\jorge\descargas\test\final\camera.h
+
+1591567324 source:d:\jorge\descargas\test\final\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206952262 d:\jorge\descargas\test\final\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354342716 d:\jorge\descargas\test\final\glm.h
+	<GL/glut.h>
+
+1206952262 source:d:\jorge\descargas\test\final\stdafx.cpp
+	"stdafx.h"
+
+1208797804 source:d:\jorge\descargas\test\final\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1353119532 d:\jorge\descargas\test\final\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1669285894 source:d:\jorge\descargas\test\final\main.cpp
+	"Libs.h"
+
+1668440152 d:\jorge\descargas\test\final\libs.h
+	<windows.h>
+	<mmsystem.h>
+	"stdafx.h"
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+	<cmath>
+	"Camera.h"
+	<time.h>
+	<math.h>
+	<string.h>
+	<GL/glui.h>
+	"include-header-MD2/texture.h"
+	"include-header-MD2/timer.h"
+	"include-header-MD2/md2.h"
+
+1152186178 d:\jorge\descargas\test\final\dependencias\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368258560 d:\jorge\descargas\test\final\dependencias\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368258560 d:\jorge\descargas\test\final\dependencias\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1042505206 d:\jorge\descargas\test\final\include-header-md2\texture.h
+	<list>
+	<string>
+
+1041531722 d:\jorge\descargas\test\final\include-header-md2\timer.h
+
+1604030962 d:\jorge\descargas\test\final\include-header-md2\md2.h
+
+1684653327 d:\jorge\descargas\final\cargadorobj.h
+	"glm.h"
+
+1684653805 d:\jorge\descargas\final\cargadortextura.h
+	"Texture.h"
+
+1668919524 source:e:\proyecto-escenarios temporales\final\camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+	<iostream>
+
+1368258560 e:\proyecto-escenarios temporales\final\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368258560 e:\proyecto-escenarios temporales\final\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1668917723 e:\proyecto-escenarios temporales\final\camera.h
+
+1591567324 source:e:\proyecto-escenarios temporales\final\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206952262 e:\proyecto-escenarios temporales\final\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354342716 e:\proyecto-escenarios temporales\final\glm.h
+	<GL/glut.h>
+
+1684683178 source:e:\proyecto-escenarios temporales\final\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	"stdafx.h"
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	"CargadorObj.h"
+	"CargadorTextura.h"
+	<cmath>
+	"Camera.h"
+	<time.h>
+	<math.h>
+	<string.h>
+
+1684653327 e:\proyecto-escenarios temporales\final\cargadorobj.h
+	"glm.h"
+
+1684653805 e:\proyecto-escenarios temporales\final\cargadortextura.h
+	"Texture.h"
+
+1353119532 e:\proyecto-escenarios temporales\final\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1206952262 source:e:\proyecto-escenarios temporales\final\stdafx.cpp
+	"stdafx.h"
+
+1208797804 source:e:\proyecto-escenarios temporales\final\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
