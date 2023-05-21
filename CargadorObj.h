@@ -7,6 +7,9 @@
     GLMmodel* piso = NULL;
 
     GLMmodel* arbol_tronco = NULL;
+    GLMmodel* arbol_hojas = NULL;
+
+
 
 
  void CargaPiso(){
@@ -18,5 +21,6 @@
  void CargaArbol(){
 
     arbol_tronco = glmReadOBJ("modelos/escenario/arbol/tronco/tronco.obj");
+    arbol_hojas = glmReadOBJ("modelos/escenario/arbol/hojas/hojas.obj");
 
  };

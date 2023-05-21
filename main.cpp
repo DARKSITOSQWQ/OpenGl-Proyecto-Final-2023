@@ -123,8 +123,16 @@ void graficar(void){
             glmDraw(piso, GLM_SMOOTH | GLM_TEXTURE);
 
             glPushMatrix();
+
             glBindTexture(GL_TEXTURE_2D, texarbol[0].texID);
             glmDraw(arbol_tronco, GLM_SMOOTH | GLM_TEXTURE);
+
+            glPushMatrix();
+            glBindTexture(GL_TEXTURE_2D, texarbol[1].texID);
+            glmDraw(arbol_hojas, GLM_SMOOTH | GLM_TEXTURE);
+            glPopMatrix();
+
+
 
             glPopMatrix();
 
