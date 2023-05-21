@@ -47,7 +47,7 @@ int g_viewport_width = 1000;
 int g_viewport_height = 700;
 bool g_mouse_left_down = false;
 bool g_mouse_right_down = false;
-const float g_translation_speed = 1;
+const float g_translation_speed = 0.01;
 const float g_rotation_speed = PI / 180 * 0.25;
 ////////////////////////////////////////////////////
 
@@ -72,6 +72,7 @@ float a_z =0;
  void init(void){
 	glClearColor(0.0, 0.0, 0.0, 0.0);
 	texturatexpiso();
+	texturaArbol();
 
 
 	glEnable(GL_DEPTH_TEST);
@@ -120,6 +121,14 @@ void graficar(void){
 	 glPushMatrix(); //LOZAS
             glBindTexture(GL_TEXTURE_2D, texpiso[0].texID);
             glmDraw(piso, GLM_SMOOTH | GLM_TEXTURE);
+
+            glPushMatrix();
+            glBindTexture(GL_TEXTURE_2D, texarbol[0].texID);
+            glmDraw(arbol_tronco, GLM_SMOOTH | GLM_TEXTURE);
+
+            glPopMatrix();
+
+
     glPopMatrix(); //FIN LOZAS
 
 
@@ -289,6 +298,7 @@ int main(int argc, char** argv)
 
 //cargas Modelos
     CargaPiso();
+    CargaArbol();
 ////////////////
 
  /////camara

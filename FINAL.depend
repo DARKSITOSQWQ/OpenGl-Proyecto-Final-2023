@@ -810,7 +810,7 @@
 1354342716 e:\proyecto-escenarios temporales\final\glm.h
 	<GL/glut.h>
 
-1684683178 source:e:\proyecto-escenarios temporales\final\main.cpp
+1684693656 source:e:\proyecto-escenarios temporales\final\main.cpp
 	<windows.h>
 	<mmsystem.h>
 	"stdafx.h"
@@ -825,10 +825,10 @@
 	<math.h>
 	<string.h>
 
-1684653327 e:\proyecto-escenarios temporales\final\cargadorobj.h
+1684693564 e:\proyecto-escenarios temporales\final\cargadorobj.h
 	"glm.h"
 
-1684653805 e:\proyecto-escenarios temporales\final\cargadortextura.h
+1684692783 e:\proyecto-escenarios temporales\final\cargadortextura.h
 	"Texture.h"
 
 1353119532 e:\proyecto-escenarios temporales\final\texture.h
