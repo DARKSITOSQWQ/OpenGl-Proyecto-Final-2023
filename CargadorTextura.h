@@ -36,7 +36,7 @@ bool texturatexpiso(){
 
 bool texturaArbol(){
     int i;
-	if (LoadTGA(&texarbol[0], "modelos/escenario/arbol/tronco/Color-material-tree.tga")&&LoadTGA(&texarbol[1], "modelos/escenario/arbol/hojas/texthojas.tga"))
+	if (LoadTGA(&texarbol[0], "modelos/escenario/arbol/tronco/texturatronco.tga")&&LoadTGA(&texarbol[1], "modelos/escenario/arbol/hojas/texturahojas.tga"))
 	{
 		for (i = 0; i<3; i++){
 			glGenTextures(1, &texarbol[i].texID);

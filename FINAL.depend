@@ -774,7 +774,7 @@
 1684653805 d:\jorge\descargas\final\cargadortextura.h
 	"Texture.h"
 
-1668919524 source:e:\proyecto-escenarios temporales\final\camera.cpp
+1684720397 source:e:\proyecto-escenarios temporales\final\camera.cpp
 	<stdio.h>
 	<math.h>
 	<GL/glut.h>
@@ -810,7 +810,7 @@
 1354342716 e:\proyecto-escenarios temporales\final\glm.h
 	<GL/glut.h>
 
-1684697270 source:e:\proyecto-escenarios temporales\final\main.cpp
+1684720288 source:e:\proyecto-escenarios temporales\final\main.cpp
 	<windows.h>
 	<mmsystem.h>
 	"stdafx.h"
@@ -828,7 +828,7 @@
 1684697235 e:\proyecto-escenarios temporales\final\cargadorobj.h
 	"glm.h"
 
-1684697235 e:\proyecto-escenarios temporales\final\cargadortextura.h
+1684718958 e:\proyecto-escenarios temporales\final\cargadortextura.h
 	"Texture.h"
 
 1353119532 e:\proyecto-escenarios temporales\final\texture.h
